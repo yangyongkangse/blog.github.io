@@ -40,12 +40,12 @@ if(navigator.serviceWorker){
   // https://dbwriteups.wordpress.com/2015/11/16/service-workers-part-3-communication-between-sw-and-pages/
   navigator.serviceWorker.onmessage = (e) => {
     const data = e.data
-    // if(data.command == "UPDATE_FOUND"){
-    //   createSnackbar({
-    //     message: "Content updated.",
-    //     actionText:"refresh",
-    //     action: function(e){location.reload()}
-    //   })
-    // }
+    if(data.command == "UPDATE_FOUND"){
+      createSnackbar({
+        message: "Content updated.",
+        actionText:"refresh",
+        action: function(e){location.reload()}
+      })
+    }
   }
 }
