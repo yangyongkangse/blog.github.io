@@ -4,6 +4,7 @@ title:      "如何使用RedisTemplate访问Redis数据结构"
 subtitle:   "RedisTemplate访问Redis数据结构"
 date:       2019-02-01
 author:     "YangYongKang"
+header-style: text
 catalog: true
 archive:
     - redis
@@ -1178,6 +1179,5 @@ TimeUnit.MINUTES //分钟
 TimeUnit.SECONDS //秒
 TimeUnit.MILLISECONDS //毫秒
 
-参考文档：Redis实战[约西亚 L.卡尔森 (Josiah L.Carlson)]
-Spring官方文档
-[转自简书DreamerRzc](https://www.jianshu.com/p/7bf5dc61ca06)
+- 参考文档：Redis实战[约西亚 L.卡尔森 (Josiah L.Carlson)]
+- [转自简书DreamerRzc](https://www.jianshu.com/p/7bf5dc61ca06)
