@@ -15,11 +15,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: yangyongkang
 zhihu_username: yangyongkang
 github_username: yangyongkangse
+email_username: yangyongkang@yangyk.com
 #twitter_username:  yangyk
-facebook_username:  yangyongkang
 
 
 
