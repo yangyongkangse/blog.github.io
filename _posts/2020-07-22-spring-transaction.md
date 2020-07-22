@@ -31,7 +31,7 @@ tags:
 #### 2. 声明式事务
 管理建立在AOP之上的。其本质是对方法前后进行拦截，然后在目标方法开始之前创建或者加入一个事务，在执行完目标方法之后根据执行情况提交或者回滚事务。声明式事务最大的优点就是不需要通过编程的方式管理事务，这样就不需要在业务逻辑代码中掺杂事务管理的代码，只需在配置文件中做相关的事务规则声明(或通过基于@Transactional注解的方式)，便可以将事务规则应用到业务逻辑中。
 ### Spring中事务管理的核心接口
-![1120165-20171003112557490-1092711802.png](https://cdn.nlark.com/yuque/0/2020/png/234577/1593584022094-085a07b9-4b7b-4dec-96ef-15c94645896f.png#align=left&display=inline&height=413&margin=%5Bobject%20Object%5D&name=1120165-20171003112557490-1092711802.png&originHeight=413&originWidth=945&size=71986&status=done&style=none&width=945)
+![1120165-20171003112557490-1092711802.png](/img/1593584022094-085a07b9-4b7b-4dec-96ef-15c94645896f.png)
 #### 1. PlatformTransactionManager  事务管理器
 Spring事务管理器的接口是org.springframework.transaction.PlatformTransactionManager，如上图所示，Spring并不直接管理事务，通过这个接口，Spring为各个平台如JDBC、Hibernate等都提供了对应的事务管理器，也就是将事务管理的职责委托给Hibernate或者JTA等持久化机制所提供的相关平台框架的事务来实现。
 具体的方法
