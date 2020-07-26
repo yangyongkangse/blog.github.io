@@ -72,7 +72,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "行有不得 反求诸己"
-sidebar-avatar: /img/2018-05.png         # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/2018-05.jpg         # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
