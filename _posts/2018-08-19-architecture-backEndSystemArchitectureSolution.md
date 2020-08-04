@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Java后端系统架构解决方案合集"
-subtitle:   ""
-date:       2018-08-19 17:56:14 +0800
-author:     "YangYongKang"
+layout: post
+title: "Java后端系统架构解决方案合集"
+subtitle: ""
+date: 2018-08-19 17:56:14 +0800
+author: "YangYongKang"
 header-style: text
 catalog: true
 archive:

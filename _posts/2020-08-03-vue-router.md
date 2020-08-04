@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "Vue路由参数的传递和获取"
-subtitle:   ""
-date:       2020-08-03 17:07:22 +0800
-author:     "YangYongKang"
+layout: post
+title: "Vue路由参数的传递和获取"
+subtitle: ""
+date: 2020-08-03 17:07:22 +0800
+author: "YangYongKang"
 header-style: text
 catalog: true
 archive:

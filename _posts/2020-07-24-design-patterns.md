@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "设计模式"
-subtitle:   ""
-date:       2020-07-24 23:12:22 +0800
-author:     "YangYongKang"
+layout: post
+title: "设计模式"
+subtitle: ""
+date: 2020-07-24 23:12:22 +0800
+author: "YangYongKang"
 header-style: text
 catalog: true
 archive:

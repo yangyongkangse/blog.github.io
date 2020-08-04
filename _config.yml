@@ -8,7 +8,6 @@ description: "行有不得 反求诸己"
 keyword: ""
 url: "http://blog.yangyk.com"              # your host, for absolute URL
 baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
-
 # Publish posts or collection documents with a future date.
 future: true
 

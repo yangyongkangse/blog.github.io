@@ -1,9 +1,9 @@
 ﻿---
-layout:     post
-title:      "如何使用RedisTemplate访问Redis数据结构"
-subtitle:   ""
-date:       2019-02-01 22:24:34 +0800
-author:     "YangYongKang"
+layout: post
+title: "如何使用RedisTemplate访问Redis数据结构"
+subtitle: ""
+date: 2019-02-01 22:24:34 +0800
+author: "YangYongKang"
 header-style: text
 catalog: true
 archive:

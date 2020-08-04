@@ -1,9 +1,9 @@
 ---
-layout:     post
-title:      "SpringBoot 全局异常处理"
-subtitle:   ""
-date:       2018-08-24 21:22:57 +0800
-author:     "YangYongKang"
+layout: post
+title: "SpringBoot 全局异常处理"
+subtitle: ""
+date: 2018-08-24 21:22:57 +0800
+author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
