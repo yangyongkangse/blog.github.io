@@ -319,7 +319,7 @@ pre.highlight {
 }
 .highlight .c {
   color: #5c6370;
-  font-style: italic;
+  font-style: normal;
 }
 .highlight .err {
   color: #960050;
@@ -346,22 +346,22 @@ pre.highlight {
 }
 .highlight .cm {
   color: #5c6370;
-  font-style: italic;
+  font-style: normal;
 }
 .highlight .cp {
   color: #5c6370;
-  font-style: italic;
+  font-style: normal;
 }
 .highlight .c1 {
   color: #5c6370;
-  font-style: italic;
+  font-style: normal;
 }
 .highlight .cs {
   color: #5c6370;
-  font-style: italic;
+  font-style: normal;
 }
 .highlight .ge {
-  font-style: italic;
+  font-style: normal;
 }
 .highlight .gs {
   font-weight: 700;
@@ -707,7 +707,7 @@ article {
 }
 blockquote {
   color: gray;
-  font-style: italic;
+  font-style: normal;
   font-size: 0.95em;
   margin: 20px 0 20px;
 }
@@ -1217,7 +1217,7 @@ samp {
 }
 .intro-header .post-heading .meta {
   font-family: 'Lora', 'Times New Roman', serif;
-  font-style: italic;
+  font-style: normal;
   font-weight: 300;
   font-size: 16px;
 }
@@ -1279,7 +1279,7 @@ samp {
   font-family: 'Lora', 'Times New Roman', serif;
   color: #a3a3a3;
   font-size: 16px;
-  font-style: italic;
+  font-style: normal;
   margin-top: 0;
 }
 .post-preview > .post-meta > a {
@@ -1306,7 +1306,7 @@ samp {
 }
 .post-content-preview {
   font-size: 13px;
-  font-style: italic;
+  font-style: normal;
   color: #a3a3a3;
 }
 .post-content-preview:hover {
@@ -1326,7 +1326,7 @@ samp {
   text-align: center;
   font-size: 14px;
   padding: 10px;
-  font-style: italic;
+  font-style: normal;
   margin: 0;
   display: block;
   border-bottom-right-radius: 5px;
