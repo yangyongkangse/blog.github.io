@@ -1182,4 +1182,4 @@ TimeUnit.SECONDS //秒
 TimeUnit.MILLISECONDS //毫秒
 
 - 参考文档：Redis实战[约西亚 L.卡尔森 (Josiah L.Carlson)]
-- [转自简书DreamerRzc](https://www.jianshu.com/p/7bf5dc61ca06)
+- [转自简书DreamerRzc](https://www.jianshu.com/p/7bf5dc61ca06){:target="_blank"}
