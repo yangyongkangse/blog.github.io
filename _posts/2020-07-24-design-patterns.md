@@ -7,10 +7,10 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - java
+    - Java
     - 设计模式
 tags:
-    - java
+    - Java
     - 设计模式
 ---
 

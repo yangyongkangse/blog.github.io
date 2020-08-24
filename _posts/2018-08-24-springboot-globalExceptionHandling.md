@@ -7,13 +7,13 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - java
-    - spring boot
-    - exception
+    - Java
+    - Spring Boot
+    - Exception
 tags:
-    - java
-    - spring boot
-    - exception
+    - Java
+    - Spring Boot
+    - Exception
 ---
 
 

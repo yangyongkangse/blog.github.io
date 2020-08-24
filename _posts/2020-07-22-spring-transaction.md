@@ -7,12 +7,12 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - java
-    - spring
+    - Java
+    - Spring
     - 事务
 tags:
-    - java
-    - spring
+    - Java
+    - Spring
     - 事务
 ---
 

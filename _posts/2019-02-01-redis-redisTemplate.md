@@ -7,13 +7,13 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - redis
-    - java
-    - spring boot
+    - Redis
+    - Java
+    - Spring Boot
 tags:
-    - redis
-    - java
-    - spring boot
+    - Redis
+    - Java
+    - Spring Boot
 ---
 
 ### Redis 数据结构简介:

@@ -7,9 +7,9 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - java
+    - Java
 tags:
-    - java
+    - Java
 ---
 
 #### 缓存

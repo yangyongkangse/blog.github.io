@@ -8,11 +8,11 @@ header-style: text
 catalog: true
 archive:
     - 负载均衡
-    - java
+    - Java
     - LoadBalanced
 tags:
     - 负载均衡
-    - java
+    - Java
     - LoadBalanced
 ---
 

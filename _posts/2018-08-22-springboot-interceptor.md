@@ -7,11 +7,11 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - java
-    - spring boot
+    - Java
+    - Spring Boot
 tags:
-    - java
-    - spring boot
+    - Java
+    - Spring Boot
 ---
 
 #### 说明
