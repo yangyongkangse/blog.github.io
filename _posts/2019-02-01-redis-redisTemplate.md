@@ -10,10 +10,12 @@ archive:
     - Redis
     - Java
     - Spring Boot
+    - DB
 tags:
     - Redis
     - Java
     - Spring Boot
+    - DB    
 ---
 
 ### Redis 数据结构简介:

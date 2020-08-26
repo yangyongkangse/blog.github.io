@@ -8,8 +8,10 @@ header-style: text
 catalog: true
 archive:
     - Mysql
+    - DB    
 tags:
     - Mysql
+    - DB    
 ---
 
 
