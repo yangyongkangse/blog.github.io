@@ -9,9 +9,13 @@ catalog: true
 archive:
     - Java
     - Transactional
+    - Mysql    
+    - Mybatis
 tags:
     - Java
     - Transactional
+    - Mysql    
+    - Mybatis
 ---
 
 ### 一、自定义事务注解
