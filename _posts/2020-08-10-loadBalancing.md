@@ -9,11 +9,9 @@ catalog: true
 archive:
     - 负载均衡
     - Java
-    - LoadBalanced
 tags:
     - 负载均衡
     - Java
-    - LoadBalanced
 ---
 
 

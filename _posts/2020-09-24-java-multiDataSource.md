@@ -8,12 +8,12 @@ header-style: text
 catalog: true
 archive:
     - Java
-    - Transactional
+    - 事务
     - Mysql    
     - Mybatis
 tags:
     - Java
-    - Transactional
+    - 事务
     - Mysql    
     - Mybatis
 ---

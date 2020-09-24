@@ -8,11 +8,11 @@ header-style: text
 catalog: true
 archive:
     - Java
-    - Spring
+    - Spring Boot
     - 事务
 tags:
     - Java
-    - Spring
+    - Spring Boot
     - 事务
 ---
 

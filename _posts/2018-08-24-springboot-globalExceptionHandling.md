@@ -9,11 +9,9 @@ catalog: true
 archive:
     - Java
     - Spring Boot
-    - Exception
 tags:
     - Java
     - Spring Boot
-    - Exception
 ---
 
 

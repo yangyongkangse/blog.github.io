@@ -7,10 +7,8 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - Xshell
     - Linux
 tags:
-    - Xshell
     - Linux
 ---
 

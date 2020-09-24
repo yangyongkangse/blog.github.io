@@ -7,13 +7,9 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - 前端
     - Vue
-    - Router
 tags:
-    - 前端
     - Vue
-    - Router
 ---
 
 

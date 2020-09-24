@@ -7,11 +7,9 @@ author: "YangYongKang"
 header-style: text
 catalog: true
 archive:
-    - Mysql
-    - DB    
+    - Mysql 
 tags:
-    - Mysql
-    - DB    
+    - Mysql   
 ---
 
 
