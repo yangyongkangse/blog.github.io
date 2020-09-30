@@ -2,7 +2,7 @@
 layout: post
 title: "Nginx负载均衡配置"
 subtitle: ""
-date: 2020-09-30 01:19:22 +0800
+date: 2020-10-01 01:19:22 +0800
 author: "YangYongKang"
 header-style: text
 catalog: true
