@@ -1,2 +1,2 @@
-[YangYongKang's Blog](http://blog.yangyk.cn)
+[YangYongKang's Blog](http://yangyk.cn)
 ================================
